@@ -1,3 +1,7 @@
+Our team used the chatbot starter kit to base our solution off of. Our solution can be found here:
+# http://covid-assistant-team-barbara.mybluemix.net/
+
+
 This tutorial takes you through building a simple Node.js application that is connected to a COVID-19 chatbot using the Watson Assistant APIs. The steps are taken from this [assistant-simple repository](https://github.com/watson-developer-cloud/assistant-simple) and adopted for 2020 Call for Code challenge. You can use this tutorial as a starting template for the [COVID-19 challenge](https://developer.ibm.com/callforcode/getstarted/covid-19/).
 
 ## Learning objectives
