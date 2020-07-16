@@ -1,0 +1,11 @@
+applications:
+- name: covid-assistant-team-barbara
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
+  env:
+    #ASSISTANT_URL: https://api.us-south.assistant.watson.cloud.ibm.com/instances/337c9d98-89bd-4da1-89fc-9195492cd389/v2/assistants/effef7ad-5eaf-4ae5-8860-a77e6e42f44a/sessions
+    ASSISTANT_URL: https://gateway.watsonplatform.net/assistant/api
+    ASSISTANT_ID: effef7ad-5eaf-4ae5-8860-a77e6e42f44a
+    ASSISTANT_IAM_APIKEY: LM4iG7a_SZcVzw7THp0vrOrtl3EVXo0uiH2P_ocZJsVP
